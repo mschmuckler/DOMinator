@@ -131,4 +131,4 @@ $l.ajax({
 
 ## Demo
 
-[Here](https://github.com/mschmuckler/DOMinator_demo) is an example of what DOMinator allows developers to do.
+[Here](http://matthewschmuckler.com/DOMinator_demo/) is an example of what DOMinator allows developers to do.
